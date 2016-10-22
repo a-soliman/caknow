@@ -228,3 +228,8 @@ footer ul li a {
 		display: inline-flex;
 	}
 }
+@media(max-width: 767px) {
+	.middleFlex {
+		margin-top: 0;
+	}
+}
