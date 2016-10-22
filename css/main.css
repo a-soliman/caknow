@@ -1,0 +1,35 @@
+
+}
+/*Nav Start*/
+.navSection {
+	border: none;
+	background-color: white;
+    margin-bottom: 0px;
+}
+.navWrapper {
+	padding: 0;
+	margin: 0;
+	padding-top: 7px;
+}
+.navSection .navWrapper .navbar-brand {
+	padding: 0;
+	margin-left: 15px;
+}
+.navWrapper img {
+	width: 170px;
+}
+.navWrapper .nav {
+	float: right;
+	margin-top: 5px;
+}
+.navWrapper .shop a {
+	border: 1px solid black;
+	border-radius: 6px;
+}
+.navWrapper >.nav > li > a {
+	padding: 7px 4px;
+	margin: 0 5px;
+	color: black;
+	font-family: Yantramanav,'Helvetica Neue',Arial,sans-serif;
+	font-weight: bold;
+}
