@@ -93,3 +93,30 @@ a:hover {
 .row {
 	padding: 50px;
 }
+.flex-inner {
+	margin-top: 100px;
+}
+.flex-inner h2 {
+	color: #017BFF;
+    text-transform: capitalize;
+    font-size: 30px;
+    font-family: sans-serif;
+}
+.flex-inner p {
+	font-size: 16px;
+    line-height: 1.5;
+    margin-top: 20px;
+    font-family: sans-serif;
+    font-weight: 100;
+}
+.flex-inner p span {
+	font-weight: 600;
+	color: #c9c9c9;
+}
+.checkOut {
+	background-image: url("../img/download_bg.jpg");
+    background-position: center;
+    background-size: cover;
+    padding: 4em 0;
+    text-align: center;
+}
