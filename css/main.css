@@ -78,3 +78,18 @@ a:hover {
 }
 
 /*Main ends*/
+.sitsBody {
+	background-color: #f5f6f7;
+	padding-bottom: 50px;
+}
+.row {
+	border-bottom: 3px solid #f5f6f7;
+}
+.bodyWrapper {
+	background-color: white;
+    z-index: 100;
+    margin-top: -50px;
+}
+.row {
+	padding: 50px;
+}
