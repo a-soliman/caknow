@@ -140,3 +140,32 @@ a:hover {
 	border: 3px solid white;
 	border-radius: 5px;
 }
+footer {
+
+}
+footer .row {
+	border: none;
+}
+footer .wrapperOne {
+	background-color: #222222;
+}
+footer .wrapperTwo {
+	background-color: #1e1e1e;
+	text-align: center;
+}
+footer img {
+	margin: 10px auto;
+}
+footer ul {
+	list-style-type: none;
+}
+.footerNav {
+	text-align: center;
+}
+.footerNav ul li {
+	margin-top: 7px;
+}
+.footerNav ul li:nth-child(1) a {
+	font-weight: bold;
+	color: white;
+}
