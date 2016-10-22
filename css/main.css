@@ -34,3 +34,22 @@ a:hover {
 	font-family: Yantramanav,'Helvetica Neue',Arial,sans-serif;
 	font-weight: bold;
 }
+/*Nav ends*/
+/*Main start*/
+
+.mainSection {
+	background-image: url(../img/banner_bg.jpg);
+	background-repeat: no-repeat;
+    background-size: cover;
+}
+.mainSection .content {
+	color: white;
+	margin: 100px auto;
+}
+.mainSection h1 {
+	font-size: 36px;
+	margin-bottom: 30px;
+}
+.mainSection p {
+	margin-bottom: 50px;
+}
