@@ -119,4 +119,24 @@ a:hover {
     background-size: cover;
     padding: 4em 0;
     text-align: center;
+}.checkOut h2 {
+	margin-bottom: 1em;
+    text-transform: capitalize;
+    font-size: 30px;
+    font-family: sans-serif;
+    font-weight: bolder;
+}
+.checkOut button {
+	background-color: black;
+	color: white;
+	border: 3px solid black;
+}
+.checkOut button a {
+	color: white;
+	font-size: 24px;
+}
+.checkOut button:hover {
+	background-color: transparent;
+	border: 3px solid white;
+	border-radius: 5px;
 }
