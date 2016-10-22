@@ -223,3 +223,8 @@ footer ul li a {
 .wrapperTwo p {
 	color: #525252;
 }
+@media(max-width: 770px) {
+	.navbar-nav{
+		display: inline-flex;
+	}
+}
