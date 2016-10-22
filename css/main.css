@@ -195,3 +195,31 @@ footer ul li a {
 	margin: 30px auto;
 
 }
+.buttons button {
+	background-color: black;
+	border: 1px solid white;
+}
+.buttons a {
+	color: white;
+}
+.mailing, .mailing:hover {
+	color: white;
+}
+.mail {
+	text-align: right;
+}
+.mail p {
+
+}
+.mail h4 {
+    font-size: 16px;
+    display: inline;
+}
+.mail .fa {
+    float: right;
+    font-size: 51px;
+    margin-left: 4px;
+}
+.wrapperTwo p {
+	color: #525252;
+}
