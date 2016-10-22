@@ -242,3 +242,24 @@ footer ul li a {
 	    margin-right: 15px;
 	}
 }
+@media(max-width: 400px) {
+	.social ul li a {
+		font-size: 10px;
+	}
+	.row {
+		padding: 10px;
+	}
+}
+@media(max-width: 400px) {
+	.social ul li a {
+		font-size: 10px;
+	}
+	.row {
+		padding: 10px;
+	}
+}
+@media(max-width: 370px) {
+	.checkOut .btn, .buttons .btn{
+		margin-bottom: 10px;
+	}
+}
